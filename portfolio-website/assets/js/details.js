@@ -1,0 +1,1 @@
+console.log("Project Details page loaded.");
